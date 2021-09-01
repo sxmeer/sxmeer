@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React and MERN Stack.
+- 📫 How to reach me: sameeryadav2421@gmail.com
+
 <!--
 **sxmeer/sxmeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
