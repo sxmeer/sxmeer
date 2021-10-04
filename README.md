@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React and MERN Stack.
+- 🌱 I’m currently Vue.js.
 - 📫 How to reach me: sameeryadav2421@gmail.com
 
 <!--
