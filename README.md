@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently Vue.js.
+- 🌱 I’m currently learning Vue.js.
 - 📫 How to reach me: sameeryadav2421@gmail.com
 
 <!--
