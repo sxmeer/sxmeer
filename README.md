@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently pursuing my master's.
+- 🌱 I’m currently pursuing my master's at University at Buffalo.
 - 📫 How to reach me: sameeryadav2421@gmail.com
 
 <!--
